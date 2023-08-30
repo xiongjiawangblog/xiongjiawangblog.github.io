@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title></title>
-      <link href="/2023/08/28/Markdown%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
-      <url>/2023/08/28/Markdown%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
+      <title>Markdown 使用教程</title>
+      <link href="/2023/08/30/Markdown%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/08/30/Markdown%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
       
         <content type="html"><![CDATA[<h1 id="✨Markdown-使用教程"><a href="#✨Markdown-使用教程" class="headerlink" title="✨Markdown 使用教程"></a>✨Markdown 使用教程</h1><h2 id="1️⃣Markdown-语言介绍"><a href="#1️⃣Markdown-语言介绍" class="headerlink" title="1️⃣Markdown 语言介绍"></a>1️⃣Markdown 语言介绍</h2><p> Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。因简洁、高效、易读、易写，Markdown被大量使用，如Github、Wikipedia、简书等。</p><h2 id="2️⃣Markdown-标题语言"><a href="#2️⃣Markdown-标题语言" class="headerlink" title="2️⃣Markdown 标题语言"></a>2️⃣Markdown 标题语言</h2><p>要创建标题，请在单词或短语前面添加井号 (<code>#</code>) 。<code>#</code> 的数量代表了标题的级别。</p><table><thead><tr><th align="center">Markdown语法</th><th align="center">预览效果</th></tr></thead><tbody><tr><td align="center"><code># Heading level 1</code></td><td align="center">Heading level 1</td></tr><tr><td align="center"><code>## Heading level 2</code></td><td align="center">Heading level 2</td></tr><tr><td align="center"><code>### Heading level 3</code></td><td align="center">Heading level 3</td></tr><tr><td align="center"><code>#### Heading level 4</code></td><td align="center">Heading level 4</td></tr><tr><td align="center"><code>##### Heading level 5</code></td><td align="center">Heading level 5</td></tr><tr><td align="center"><code>###### Heading level 6</code></td><td align="center">Heading level 6</td></tr></tbody></table><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="3️⃣Markdown-段落"><a href="#3️⃣Markdown-段落" class="headerlink" title="3️⃣Markdown 段落"></a>3️⃣Markdown 段落</h2><p>hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</p>]]></content>
       
